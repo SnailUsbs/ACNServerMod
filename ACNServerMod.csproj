@@ -3,7 +3,7 @@
     <TargetFramework>net472</TargetFramework>
     <AssemblyName>ACNServerMod</AssemblyName>
     <AssemblyTitle>ACNServerMod</AssemblyTitle>
-    <AssemblyDescription>BepInEx mod that redirects BombRushMP server address to ACN.</AssemblyDescription>
+    <AssemblyDescription>BepInEx mod that redirects the BombRushMP server address to:.</AssemblyDescription>
     <AssemblyVersion>1.0.0</AssemblyVersion>
     <FileVersion>1.0.0</FileVersion>
     <RootNamespace>BRCNetwork</RootNamespace>
